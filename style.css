@@ -3,6 +3,7 @@
     background-color:#85C1E9  ;
     color:white;
     font-size:20px;
+    border-color: white;
     
 }
 .footer{
@@ -44,6 +45,13 @@
 
 }
 
+#mid{
+
+    background-color:#85C1E9; 
+    
+}
+
+
 
 .headshot{
     width: 20%;
@@ -64,6 +72,6 @@ body {
 }
 
 a {
-    text-decoration: none
+    text-decoration: none;
     color: white;
 }
