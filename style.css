@@ -1,0 +1,66 @@
+
+.row{   
+
+    background-color:#85C1E9  ;
+    color:white;
+    font-size:20px;
+    
+}
+.footer{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F7DC6F;
+    
+}
+.mid{
+    background-color: white;
+    color:black;
+    justify-content: space-around;
+    align-items:center;
+    font-size:75px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: flex;
+    font-family: 'Merienda', cursive;
+}
+.aboutme{
+      
+}
+
+#bottom {
+ 
+ background-color: white;
+ color: black;
+    
+}
+
+#photo{
+
+    display: block;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+.headshot{
+    width: 20%;
+    border-radius: 100%;
+}
+.contact{
+ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F7DC6F;
+    
+}
+
+body {
+    border-style: double;
+    border-width: 10px;
+}
